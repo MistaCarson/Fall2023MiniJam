@@ -22,4 +22,4 @@ what you did.
 3. In order to commit the changes hit the commit button in the bottom left, then push your changes by hitting the
 push to branch button in the top right.
 
-Now you're changes should be with the repository!
+Now your changes should be with the repository!
