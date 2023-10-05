@@ -1,0 +1,1 @@
+Oh dear, Dollar Tree announced that their prices will be going up to $1.25! You, as their most loyal shopper, will not stand for this. 
